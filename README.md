@@ -4,7 +4,7 @@ This repository houses an interactive Voice Assistant leveraging **Google Bard A
 ### Key Features:
 
 - **Voice Interaction:** Utilizes Speech Recognition to identify the wake word 'Jarvis,' initiating the Assistant's listening mode for user prompts.
-- **Google Bard Integration:** Employs Google Bard API to process and respond to user queries, harnessing AI capabilities for conversational responses.
+- **Google Bard Integration:** Employs Google Bard API to process and respond to user queries, **harnessing AI capabilities** for conversational responses.
 - **Customizable Wake Word:** Users have the flexibility to customize the wake word for activating the Assistant, enhancing personalization.
 - **Whisper Models:** Incorporates Whisper models for transcribing audio inputs, ensuring accurate and efficient speech recognition.
 - **Text-to-Speech (TTS):** Provides audible responses using either the system's native TTS or, on macOS, system messages for seamless interaction.
